@@ -1,0 +1,74 @@
+{
+    "products": [
+      {
+        "_id": "dress1",
+        "image": "/images/popular1.png",
+        "title": "Lacoste Men's TR90 Quartz Watch with Rubber",
+        "description1": "imported",
+        "description2": "Easy-to-Read White Dial with Full Arabic Numerals",
+        "description3": "Brushed Silver-Tone Stainless Steel Expansion Band",
+        "description4": "Polished Silver-Tone Case",
+        "description5": "Day & Date Window",
+        "availableSizes": ["X", "XS", "XXL"],
+        "price": 29.9 
+      },
+      {
+        "_id": "dress2",
+        "image": "/images/popular2.png",
+        "title": "Invicta Men's Pro Diver Scuba 50mm Gold",
+        "description1": "50mm case, 24mm band width, mineral crystal, Quartz Chronograph movement, imported",
+        "description2": "Round Stainless Steel case, with a Black dial",
+        "description3": "Black, Stainless Steel band",
+        "description4": "5 ATM: Water resistant up to 50m: Wearable while swimming in shallow water",
+        "description5": "Made in USA or Imported",      
+        "availableSizes": ["X", "M", "S","L"],
+        "price": 18.9 
+      },
+      {
+        "_id": "dress3",
+        "image": "/images/popular3.png",
+        "title": "Lacoste Men's TR90 Japanese Quartz Watch",
+        "description1": "44mm case, 22mm band width, mineral crystal, Quartz Chronograph movement, imported.",
+        "description2": "Round Stainless Steel case, with a Black dial",
+        "description3": "Silver, Stainless Steel band",
+        "description4": "5 ATM: Water resistant up to 50m: Wearable while swimming in shallow water",
+        "description5": "Band Size: mens-standard",        "availableSizes": ["X", "M", "L"],
+        "price": 32.9 
+      },
+      {
+        "_id": "dress4",
+        "image": "/images/popular4.png",
+        "title": "Timex Men's Easy Reader Day-Date Expansion",
+        "description1": "Water resistant to 30 M",
+        "description2": "Easy-to-Read White Dial with Full Arabic Numerals",
+        "description3": "Brushed Silver-Tone Stainless Steel Expansion Band",
+        "description4": "Polished Silver-Tone Case",
+        "description5": "Indiglo Night-Light",        "availableSizes": ["XL","S"],
+        "price": 25.9 
+      },
+      {
+        "_id": "dress5",
+        "image": "/images/popular5.png",
+        "title": "Roll over image to zoom inInvicta Men's",
+        "description1": "Chronograph Green dial tr-90 case Green silicone strap",
+        "description2": "Quartz Movement with analog display",
+        "description3": "Durable mineral crystal protects watch from scratches",
+        "description4": "The Lacoste 12.12 watch family champions sporting style.",
+        "description5": "Water resistant to 50 m (165ft): ",    
+        "availableSizes": ["X", "L", "XL"],
+        "price": 26.9 
+      },
+      {
+        "_id": "dress6",
+        "image": "/images/popular6.png",
+        "title": "Lacoste Men's 2010842 Capbreton Analog",
+        "description1": "The Capbreton watch is essential for any casual night out or get together",
+        "description2": "Durable mineral crystal protects watch from scratches",
+        "description3": "Japanese-quartz Movement",
+        "description4": "Case Diameter: 46mm",
+        "description5": "Water Resistant To 99 Feet",       
+        "availableSizes": ["XS", "XXL"],
+        "price": 39.9  
+      }
+    ]
+  }
