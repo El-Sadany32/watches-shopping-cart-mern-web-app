@@ -11,4 +11,4 @@
 * Create order with user friendly id
 
 
-[Heroku Demo](https://watches32.herokuapp.com/)
+[Heroku Demo](https://watchs32.herokuapp.com/)
